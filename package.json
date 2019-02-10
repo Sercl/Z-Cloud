@@ -12,7 +12,8 @@
     "axios": "^0.18.0",
     "element-ui": "^2.5.4",
     "qs": "^6.6.0",
-    "vue": "^2.5.22"
+    "vue": "^2.5.22",
+    "vue-router": "^3.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.4",
@@ -21,7 +22,9 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",
-    "vue-template-compiler": "^2.5.21"
+    "vue-template-compiler": "^2.5.21",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
   },
   "eslintConfig": {
     "root": true,

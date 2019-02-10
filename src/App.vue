@@ -1,10 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <div>
-      <button @click="a">asdasd</button>
-      <el-button @click="startHacking">Start</el-button>
-    </div>
+    <router-view/>
   </div>
 </template>
 
